@@ -45,7 +45,7 @@ Créer `TimeServlet` pour afficher un message de bienvenue et l'heure actuelle. 
 
 ---
 
-![Logo_***](https://i.postimg.cc/bJtKH0N5/1.png)
+![1.png](https://i.postimg.cc/bJtKH0N5/1.png)
 
 
 ---

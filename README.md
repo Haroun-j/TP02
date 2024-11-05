@@ -154,7 +154,7 @@ TP02/
 ---
 
 
-## Authors
+## Auteur
 
 - [@HarounJoudi](https://www.github.com/)
 

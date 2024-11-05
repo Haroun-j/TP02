@@ -112,27 +112,27 @@ Créer `LoginServlet` pour authentifier les utilisateurs. Si les identifiants so
 
 TP02/
 
-├── src/
-
-│   ├── TimeServlet.java      # Affiche l'heure en temps réel
-
-│   ├── RedirectServlet.java  # Gère les redirections
-
-│   ├── LoginServlet.java     # Gère l'authentification
-
-├── WEB-INF/
-
-│   ├── web.xml               # Configuration des servlets
-
-├── login.html                # Page de connexion HTML
-
-├── screenshots
-
-└── styles/
-
-      └── login.css             # Styles pour les formulaires
-
-      └── clock.css             # Styles pour les formulaires
+   ├── src/
+   
+   │   ├── TimeServlet.java      # Affiche l'heure en temps réel
+   
+   │   ├── RedirectServlet.java  # Gère les redirections
+   
+   │   ├── LoginServlet.java     # Gère l'authentification
+   
+   ├── WEB-INF/
+   
+   │   ├── web.xml               # Configuration des servlets
+   
+   ├── login.html                # Page de connexion HTML
+   
+   ├── screenshots
+   
+   └── styles/
+   
+         └── login.css             # Styles pour les formulaires
+   
+         └── clock.css             # Styles pour les formulaires
 
 ---
 

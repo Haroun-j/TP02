@@ -43,7 +43,10 @@ Créer `TimeServlet` pour afficher un message de bienvenue et l'heure actuelle. 
 - Génération dynamique de HTML.
 - Script pour l'heure en temps réel.
 
-![Time Servlet](https://i.postimg.cc/bJtKH0N5/1.png)
+
+
+![1.png](https://i.postimg.cc/bJtKH0N5/1.png)
+
 
 ---
 

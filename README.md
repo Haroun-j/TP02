@@ -89,18 +89,21 @@ Créer `LoginServlet` pour authentifier les utilisateurs. Si les identifiants so
 ### Points Techniques
 - Vérification des identifiants.
 - Formulaire de redirection intégré.
+---
+## Captures d'écran
+
 
 ![Logo_](https://i.postimg.cc/MZRYxPF4/2.png)
 
-
+---
 ![Logo__](https://i.postimg.cc/qRcgD31m/3.png)
-
+---
 
 ![4.png](https://i.postimg.cc/Z5q7TP3d/4.png)
-
+---
 
 ![5.png](https://i.postimg.cc/6psqKcFH/5.png)
-
+---
 
 ![6.png](https://i.postimg.cc/2jbBf1VS/6.png)
 
@@ -151,7 +154,7 @@ TP02/
    - **Page de Connexion** : `http://localhost:8080/TP02/login.html`
 
 ### Remarques
-- Vérifiez les ressources (HTML, CSS) sont accessibles.
+- Vérifiez que ressources (HTML, CSS) sont accessibles.
 - Consultez les journaux de Tomcat en cas d'erreurs.
 ---
 
